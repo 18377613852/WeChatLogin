@@ -429,6 +429,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 77XR85BBU2;
 				INFOPLIST_FILE = WeChatLogin/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mf.ymhpay.cn.WeChatLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,6 +442,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 77XR85BBU2;
 				INFOPLIST_FILE = WeChatLogin/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mf.ymhpay.cn.WeChatLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -516,6 +518,7 @@
 				BA8ACAAC1E2CBD1C00F0D970 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA8ACAAD1E2CBD1C00F0D970 /* Build configuration list for PBXNativeTarget "WeChatLoginTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +527,7 @@
 				BA8ACAAF1E2CBD1C00F0D970 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA8ACAB01E2CBD1C00F0D970 /* Build configuration list for PBXNativeTarget "WeChatLoginUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +536,7 @@
 				BA8ACAB21E2CBD1C00F0D970 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
