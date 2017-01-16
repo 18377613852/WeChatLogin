@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     UIButton *btn = [UIButton buttonWithType:0];
     [btn setFrame:CGRectMake(200, 30, 80, 80)];
-    [btn setTitle:@"normal" forState:UIControlStateNormal];
+    [btn setTitle:@"normal111" forState:UIControlStateNormal];
     [btn setTitle:@"seleted" forState:UIControlStateSelected];
     btn.backgroundColor = [UIColor redColor];
     [btn addTarget:self action:@selector(gogogo:) forControlEvents:UIControlEventTouchUpInside];
@@ -30,7 +30,7 @@
 - (void)gogogo:(UIButton *)sender{
     sender.selected = !sender.selected;
 //    sender.transform = CATransform3DMakeScale(1, 2, 2);
-    
+    //111normal
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
