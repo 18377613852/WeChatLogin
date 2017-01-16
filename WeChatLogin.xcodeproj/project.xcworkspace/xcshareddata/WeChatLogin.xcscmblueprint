@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A4353C5ACCFFB68B3283011B0A197541BF5919F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A4353C5ACCFFB68B3283011B0A197541BF5919F" : 9223372036854775807,
+    "6BC7015E0A44A8EC8D6927A7C99A38D8B9284BB4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F584063D-6A29-4A32-AA66-83D180B8EF09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A4353C5ACCFFB68B3283011B0A197541BF5919F" : "WeChatLogin\/",
+    "6BC7015E0A44A8EC8D6927A7C99A38D8B9284BB4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeChatLogin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeChatLogin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/18377613852\/0116Liu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BC7015E0A44A8EC8D6927A7C99A38D8B9284BB4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/18377613852\/WeChatLogin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A4353C5ACCFFB68B3283011B0A197541BF5919F"
+    }
+  ]
+}
