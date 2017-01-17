@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33A880201E2DB57F004CAA23 /* WeChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33A8801F1E2DB57F004CAA23 /* WeChatViewController.m */; };
 		BA8ACA821E2CBD1C00F0D970 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8ACA811E2CBD1C00F0D970 /* main.m */; };
 		BA8ACA851E2CBD1C00F0D970 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8ACA841E2CBD1C00F0D970 /* AppDelegate.m */; };
 		BA8ACA881E2CBD1C00F0D970 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8ACA871E2CBD1C00F0D970 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		33A8801E1E2DB57F004CAA23 /* WeChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeChatViewController.h; sourceTree = "<group>"; };
+		33A8801F1E2DB57F004CAA23 /* WeChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeChatViewController.m; sourceTree = "<group>"; };
 		BA8ACA7D1E2CBD1C00F0D970 /* WeChatLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeChatLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA8ACA811E2CBD1C00F0D970 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BA8ACA831E2CBD1C00F0D970 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				BA8ACA841E2CBD1C00F0D970 /* AppDelegate.m */,
 				BA8ACA861E2CBD1C00F0D970 /* ViewController.h */,
 				BA8ACA871E2CBD1C00F0D970 /* ViewController.m */,
+				33A8801E1E2DB57F004CAA23 /* WeChatViewController.h */,
+				33A8801F1E2DB57F004CAA23 /* WeChatViewController.m */,
 				BA8ACA891E2CBD1C00F0D970 /* Main.storyboard */,
 				BA8ACA8C1E2CBD1C00F0D970 /* Assets.xcassets */,
 				BA8ACA8E1E2CBD1C00F0D970 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33A880201E2DB57F004CAA23 /* WeChatViewController.m in Sources */,
 				BA8ACA881E2CBD1C00F0D970 /* ViewController.m in Sources */,
 				BA8ACA851E2CBD1C00F0D970 /* AppDelegate.m in Sources */,
 				BA8ACA821E2CBD1C00F0D970 /* main.m in Sources */,

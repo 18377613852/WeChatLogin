@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 
+#import "WeChatViewController.h"
 @interface ViewController ()
 
 @end
@@ -37,7 +38,8 @@
 //    sender.transform = CATransform3DMakeScale(1, 2, 2);
 
     //111normal
-
+    WeChatViewController *vc = [WeChatViewController new];
+    [self.navigationController pushViewController:vc animated:YES];
     //5456
     
 
