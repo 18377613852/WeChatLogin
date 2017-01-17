@@ -38,7 +38,7 @@
 //    sender.transform = CATransform3DMakeScale(1, 2, 2);
 
     NSLog(@"这是一个BUG，可以这样实验");
-    
+    NSLog(@"12312");
     //111normal
     WeChatViewController *vc = [WeChatViewController new];
     [self.navigationController pushViewController:vc animated:YES];
