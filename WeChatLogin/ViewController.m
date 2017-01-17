@@ -21,8 +21,7 @@
     UIButton *btn = [UIButton buttonWithType:0];
     [btn setFrame:CGRectMake(200, 30, 80, 80)];
 
-//    [btn setTitle:@"normal111" forState:UIControlStateNormal];
-//    [btn setTitle:@"seleted" forState:UIControlStateSelected];
+
 
     [btn setTitle:@"normal" forState:UIControlStateNormal];
     [btn setTitle:@"seleted" forState:UIControlStateSelected];
@@ -30,6 +29,8 @@
     btn.backgroundColor = [UIColor redColor];
     [btn addTarget:self action:@selector(gogogo:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
+    UIButton *Loginbtn = [UIButton buttonWithType:0];
+    [self.view addSubview:Loginbtn];
     
 }
 
@@ -37,12 +38,10 @@
     sender.selected = !sender.selected;
 //    sender.transform = CATransform3DMakeScale(1, 2, 2);
 
-    NSLog(@"这是一个BUG，可以这样实验");
-    NSLog(@"12312");
-    //111normal
+
     WeChatViewController *vc = [WeChatViewController new];
     [self.navigationController pushViewController:vc animated:YES];
-    //5456
+
     
 
 }
